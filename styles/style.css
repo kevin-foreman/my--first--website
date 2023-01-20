@@ -1,5 +1,5 @@
 body, p {
-  color: blueviolet;
+  color: black;
   margin: 0;
   font-size: 16px;
   background-color: grey;
@@ -7,4 +7,10 @@ body, p {
 
 h1 {
   margin-top: 0;
+}
+
+.awesome {
+  font-size: large;
+  margin-top: 20px;
+  margin-left: 60px;
 }
